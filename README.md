@@ -3,7 +3,7 @@ Lectures on Growth at Risk
 
 The Github repo contains the two sets of slides I use for teaching density forecasting and Growth-at-Risk at the IMF ("ICD Clinic on Growth at Risk").
 
-Please **cite** me if you are using the slides.
+Please **__cite__** me if you are using the slides.
 
 Author: Romain Lafarguette, September 2021
 
